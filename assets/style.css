@@ -1,0 +1,24 @@
+
+
+.all>div{
+    height: 300px;
+    border: 1px solid #ccc;
+    margin-bottom: 15px;
+}
+
+.blueviolet>div{
+    background-color: blueviolet;
+
+}
+
+.red>div{
+    background-color: red;
+}
+
+.yellowgreen>div{
+    background-color: yellowgreen;
+}
+
+.orange>div{
+    background-color: orange;
+}
